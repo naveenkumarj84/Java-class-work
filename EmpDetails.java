@@ -2,7 +2,7 @@ package Java.work;  // Ensure the package matches your folder structure
 
 class Emp {
     private int empId = 101;
-    private String empName = "Nokesh";
+    private String empName = "Naveen kumar J";
     private int salary = 20000;
     private String address = "xyz street";
     private String phone;
